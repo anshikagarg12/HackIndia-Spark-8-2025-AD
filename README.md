@@ -118,7 +118,12 @@ DestinAItion is an AI-powered travel app designed to provide dynamic, personaliz
 We welcome contributors! Please fork the repository and create a pull request with your changes.
 
 ---
+Link to our project:
+https://drive.google.com/drive/folders/113rlTflf9Y-7ZmASuxS6BLqWGt299V6e?usp=drive_link
 
-## 📄 License
+Authors:
+Anshika Garg
+Divyakiran Sahoo
 
-This project is licensed under the MIT License.
+
+
